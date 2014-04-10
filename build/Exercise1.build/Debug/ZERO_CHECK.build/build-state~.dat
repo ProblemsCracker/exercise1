@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh
+c0000000052FB0325000000000000011B
+t1392182053
+s283
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6da93ba53aabb841^5b0a3ca53aabb841^---0#1#1#--18"Check dependencies36"FBA71075-F862-446C-97BD-D13701BE2EFD-
+
+CPhaseScriptExecution CMake\ Rules /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh
+s413874853.237160
+e413874853.285995
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh
+oecho ""
+o
+omake -f /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'113"PhaseScriptExecution CMake\ Rules build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.shb41f3da53aabb841^8f3749a53aabb841^-293"echo ""make -f /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeScripts/ReRunCMake.makemake[1]: `/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-413874853#0#8#-0#-----2@134"make -f /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeScripts/ReRunCMake.make-413874853#9#134#-0#-----2@150"make[1]: `/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/cmake.check_cache' is up to date.-413874853#143#150#-0#-----0#0#1#--402"PhaseScriptExecution CMake\ Rules build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    /bin/sh -c \"/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/ZERO_CHECK.build/Script-C5C4BD73450C475E85462877.sh\"36"E12BBE7E-CD47-4460-8B8E-244521091A11-
+bD5209666-FBD0-46C3-98EE-62AD41E9D72B
+

@@ -1,0 +1,736 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 46;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              FE94D83E98324D4F94B506AC /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = BCA1D30A33654245BCA028CB /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            6FDF1AEC5E7C48C88E0391D6 /* CMake Rules */,
+                     );
+                     dependencies = (
+                            8A730C2B0C304E30A56FC6AE /* PBXTargetDependency */,
+                            1B8C52C5755C40188DC61050 /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              0A388E9F44CD4D1EAC4365C2 /* ZERO_CHECK */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = AC58FA72A6EC4ED9B76A609A /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+                     buildPhases = (
+                            C5C4BD73450C475E85462877 /* CMake Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = ZERO_CHECK;
+                     productName = ZERO_CHECK;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+AC8DBA2E5A514FFAAB3A38B8 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 4E5475D2B82B4F08BE49AD98 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+B53A35B7595C43A1A679C4D7 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc */ = {isa = PBXBuildFile; fileRef = 1FDF209A081B4C74B17F0A2D /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc */; settings = { COMPILER_FLAGS = ""; }; };
+29AF68EFBA9F4FDD8933AF44 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh */ = {isa = PBXBuildFile; fileRef = 3B6EBB948B924BEEA8DF36A0 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh */; settings = { COMPILER_FLAGS = ""; }; };
+A76D575B478E4890AEAB9EE6 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc */ = {isa = PBXBuildFile; fileRef = 14BD3D7E0A7C4A68AE4762E5 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc */; settings = { COMPILER_FLAGS = ""; }; };
+822383A41BA047E19488346E /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh */ = {isa = PBXBuildFile; fileRef = F15A50B8BDD446208D35DA5C /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh */; settings = { COMPILER_FLAGS = ""; }; };
+CC9DB040FE334338BD81B051 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc */ = {isa = PBXBuildFile; fileRef = E84ED0E149734A31BAFD4E82 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc */; settings = { COMPILER_FLAGS = ""; }; };
+72745D46359A4EA59273ED3C /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh */ = {isa = PBXBuildFile; fileRef = 56D2391376494057AEC98640 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh */; settings = { COMPILER_FLAGS = ""; }; };
+6B016D2BFEBF44039F6B1DB1 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc */ = {isa = PBXBuildFile; fileRef = CD3B9871F52348E4972C64E7 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc */; settings = { COMPILER_FLAGS = ""; }; };
+C7CE584B4390498CB26C7DDD /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh */ = {isa = PBXBuildFile; fileRef = 7353DEC5D0374B43B13B618F /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh */; settings = { COMPILER_FLAGS = ""; }; };
+98953536B19E44C4AEB85BA9 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh */ = {isa = PBXBuildFile; fileRef = E71315E204FD4FFCB1DFA436 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh */; settings = { COMPILER_FLAGS = ""; }; };
+416BAD6428B348FC96F81435 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc */ = {isa = PBXBuildFile; fileRef = FB94CB3E86E644B2A9F4929A /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              DB986061D1E84F38AAC764AF /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              2E892D8BB3494A31848F3168 /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              CE5593D36D5C42E3B6649DD3 /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              DC5E3F2412F341799354FC19 /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              320F890AB30F4C798C80BAB5 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              3ECD2E8554CE49BF9CC244D2 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 3A73A5A4BD05454392A4F24C /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 0A388E9F44CD4D1EAC4365C2;
+                     remoteInfo = ZERO_CHECK;
+              };
+              72431EFBB5AF45C79EE7167A /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 3A73A5A4BD05454392A4F24C /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 68B964FC1C24413E975CDA61;
+                     remoteInfo = exercise1;
+              };
+              0391F1BD391446768FFBC759 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 3A73A5A4BD05454392A4F24C /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 0A388E9F44CD4D1EAC4365C2;
+                     remoteInfo = ZERO_CHECK;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+4E5475D2B82B4F08BE49AD98 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = "sourcecode.text"; fileEncoding = 4; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+1FDF209A081B4C74B17F0A2D /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "GlutExaminer.cc"; path = "GlutExaminer.cc"; sourceTree = SOURCE_ROOT; };
+3B6EBB948B924BEEA8DF36A0 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.h"; fileEncoding = 4; name = "GlutExaminer.hh"; path = "GlutExaminer.hh"; sourceTree = SOURCE_ROOT; };
+14BD3D7E0A7C4A68AE4762E5 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "GlutViewer.cc"; path = "GlutViewer.cc"; sourceTree = SOURCE_ROOT; };
+F15A50B8BDD446208D35DA5C /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.h"; fileEncoding = 4; name = "GlutViewer.hh"; path = "GlutViewer.hh"; sourceTree = SOURCE_ROOT; };
+E84ED0E149734A31BAFD4E82 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "MeshViewer.cc"; path = "MeshViewer.cc"; sourceTree = SOURCE_ROOT; };
+56D2391376494057AEC98640 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.h"; fileEncoding = 4; name = "MeshViewer.hh"; path = "MeshViewer.hh"; sourceTree = SOURCE_ROOT; };
+CD3B9871F52348E4972C64E7 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "ValenceViewer.cc"; path = "ValenceViewer.cc"; sourceTree = SOURCE_ROOT; };
+7353DEC5D0374B43B13B618F /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.h"; fileEncoding = 4; name = "ValenceViewer.hh"; path = "ValenceViewer.hh"; sourceTree = SOURCE_ROOT; };
+E71315E204FD4FFCB1DFA436 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.h"; fileEncoding = 4; name = "gl.hh"; path = "gl.hh"; sourceTree = SOURCE_ROOT; };
+FB94CB3E86E644B2A9F4929A /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "valenceview.cc"; path = "valenceview.cc"; sourceTree = SOURCE_ROOT; };
+B73954871898456BBAFF4D8C /* exercise1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = exercise1; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              1456D3D5C47F4371BA1E2C09  = {
+                     isa = PBXGroup;
+                     children = (
+                            B1E0A22B5E154149B097832B /* Sources */,
+                            68F9CE2FBEA24EA2A1FDBF87 /* Resources */,
+                            DB2E967A10C34B84B446AE65 /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              B1E0A22B5E154149B097832B /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1392DA5E9446406696D33146 /* ALL_BUILD */,
+                            7B88E67224F446A3AF36D419 /* ZERO_CHECK */,
+                            D63A24292BB74656978955D2 /* exercise1 */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              68F9CE2FBEA24EA2A1FDBF87 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              1392DA5E9446406696D33146 /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            DBCE311B89044A749B131B6C /* CMake Rules */,
+                            4E5475D2B82B4F08BE49AD98 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              DBCE311B89044A749B131B6C /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              7B88E67224F446A3AF36D419 /* ZERO_CHECK */ = {
+                     isa = PBXGroup;
+                     children = (
+                            827F11703C1D4A889649F160 /* CMake Rules */,
+                            4E5475D2B82B4F08BE49AD98 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */,
+                     );
+                     name = ZERO_CHECK;
+                     sourceTree = "<group>";
+              };
+              827F11703C1D4A889649F160 /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              D63A24292BB74656978955D2 /* exercise1 */ = {
+                     isa = PBXGroup;
+                     children = (
+                            7327BF9024A54C748B99041C /* Source Files */,
+                            76907A31BD65466988C4EFC2 /* Header Files */,
+                            4E5475D2B82B4F08BE49AD98 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/CMakeLists.txt */,
+                     );
+                     name = exercise1;
+                     sourceTree = "<group>";
+              };
+              7327BF9024A54C748B99041C /* Source Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1FDF209A081B4C74B17F0A2D /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc */,
+                            14BD3D7E0A7C4A68AE4762E5 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc */,
+                            E84ED0E149734A31BAFD4E82 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc */,
+                            CD3B9871F52348E4972C64E7 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc */,
+                            FB94CB3E86E644B2A9F4929A /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc */,
+                     );
+                     name = "Source Files";
+                     sourceTree = "<group>";
+              };
+              76907A31BD65466988C4EFC2 /* Header Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            3B6EBB948B924BEEA8DF36A0 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh */,
+                            F15A50B8BDD446208D35DA5C /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh */,
+                            56D2391376494057AEC98640 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh */,
+                            7353DEC5D0374B43B13B618F /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh */,
+                            E71315E204FD4FFCB1DFA436 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh */,
+                     );
+                     name = "Header Files";
+                     sourceTree = "<group>";
+              };
+              DB2E967A10C34B84B446AE65 /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            B73954871898456BBAFF4D8C /* exercise1 */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              68B964FC1C24413E975CDA61 /* exercise1 */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = B107F3B8FA334482A6FD8B8C /* Build configuration list for PBXNativeTarget "exercise1" */;
+                     buildPhases = (
+                            2484483213D04FF78B0A0E0F /* Sources */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                            005CA9280B5A419CBA8D260B /* PBXTargetDependency */,
+                     );
+                     name = exercise1;
+                     productName = exercise1;
+                     productReference = B73954871898456BBAFF4D8C /* exercise1 */;
+                     productType = "com.apple.product-type.tool";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              3A73A5A4BD05454392A4F24C /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = AC76446161314B9A8A00617E /* Build configuration list for PBXProject  "Exercise1" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            2E892D8BB3494A31848F3168 /* Debug */,
+                            CE5593D36D5C42E3B6649DD3 /* Release */,
+                            DC5E3F2412F341799354FC19 /* MinSizeRel */,
+                            320F890AB30F4C798C80BAB5 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.2";
+                     hasScannedForEncodings = 0;
+                     mainGroup = 1456D3D5C47F4371BA1E2C09;
+                     projectDirPath = "..";
+                     projectRoot = "";
+                     targets = (
+                            FE94D83E98324D4F94B506AC /* ALL_BUILD */,
+                            0A388E9F44CD4D1EAC4365C2 /* ZERO_CHECK */,
+                            68B964FC1C24413E975CDA61 /* exercise1 */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              765105D115264EF4AA66557A /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              6FDF1AEC5E7C48C88E0391D6 /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/wenbolin/Documents/study/studying/Digital\\ Geometry\\ Processing/exercise1/exercise1/build -f /Users/wenbolin/Documents/study/studying/Digital\\ Geometry\\ Processing/exercise1/exercise1/build/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+              F7C6E72DBBAB43ECA29129AE /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              C5C4BD73450C475E85462877 /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/wenbolin/Documents/study/studying/Digital\\ Geometry\\ Processing/exercise1/exercise1/build -f /Users/wenbolin/Documents/study/studying/Digital\\ Geometry\\ Processing/exercise1/exercise1/build/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              2484483213D04FF78B0A0E0F /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            B53A35B7595C43A1A679C4D7 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc */,
+                            A76D575B478E4890AEAB9EE6 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc */,
+                            CC9DB040FE334338BD81B051 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc */,
+                            6B016D2BFEBF44039F6B1DB1 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc */,
+                            416BAD6428B348FC96F81435 /* /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              8A730C2B0C304E30A56FC6AE /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 0A388E9F44CD4D1EAC4365C2 /* ZERO_CHECK */;
+                     targetProxy = 3ECD2E8554CE49BF9CC244D2 /* PBXContainerItemProxy */;
+              };
+              1B8C52C5755C40188DC61050 /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 68B964FC1C24413E975CDA61 /* exercise1 */;
+                     targetProxy = 72431EFBB5AF45C79EE7167A /* PBXContainerItemProxy */;
+              };
+              005CA9280B5A419CBA8D260B /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 0A388E9F44CD4D1EAC4365C2 /* ZERO_CHECK */;
+                     targetProxy = 0391F1BD391446768FFBC759 /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              26E32B130CB24D7A973CA8BF /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/build";
+                     };
+                     name = Debug;
+              };
+              D13B2460A04A4B258F42A8DB /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/build";
+                     };
+                     name = Release;
+              };
+              862DF77D24EF4572918526E9 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/build";
+                     };
+                     name = MinSizeRel;
+              };
+              24ED2D43B6614F18B0FBA70B /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              3B0B558CBF5C4849995E0299 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              765995D0AD5F4DAEA938595D /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              2E4172C014C6466FA6219E37 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              70FC432E52744A1E8C52D27F /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              DECE7B832F3548929F293C7F /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              EDF99063288747FBA6665BA9 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              BEDA7E6E327E4C2DA56010D3 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1CD8292C1AFB4BB995D10087 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = " ";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              4F8F3F1AE61C41EDA3893069 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            CONFIGURATION_BUILD_DIR = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/bin/Debug";
+                            EXECUTABLE_PREFIX = "";
+                            EXECUTABLE_SUFFIX = "";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            LIBRARY_SEARCH_PATHS = "";
+                            OTHER_CFLAGS = "    ";
+                            OTHER_CPLUSPLUSFLAGS = "    ";
+                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = exercise1;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              0E4A411BA1C24BBD844B2C2E /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            CONFIGURATION_BUILD_DIR = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/bin/Release";
+                            EXECUTABLE_PREFIX = "";
+                            EXECUTABLE_SUFFIX = "";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            LIBRARY_SEARCH_PATHS = "";
+                            OTHER_CFLAGS = "    -DNDEBUG  ";
+                            OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG  ";
+                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = exercise1;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              0A8906358BFA43FBA665B2E2 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            CONFIGURATION_BUILD_DIR = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/bin/MinSizeRel";
+                            EXECUTABLE_PREFIX = "";
+                            EXECUTABLE_SUFFIX = "";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = s;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            LIBRARY_SEARCH_PATHS = "";
+                            OTHER_CFLAGS = "    -DNDEBUG  ";
+                            OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG  ";
+                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = exercise1;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              BFADBE56032641FCA8317B62 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            COMBINE_HIDPI_IMAGES = YES;
+                            CONFIGURATION_BUILD_DIR = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/bin/RelWithDebInfo";
+                            EXECUTABLE_PREFIX = "";
+                            EXECUTABLE_SUFFIX = "";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 2;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _USE_MATH_DEFINES, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers", );
+                            INSTALL_PATH = "";
+                            LIBRARY_SEARCH_PATHS = "";
+                            OTHER_CFLAGS = "       -DNDEBUG  ";
+                            OTHER_CPLUSPLUSFLAGS = "       -DNDEBUG  ";
+                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = exercise1;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              AC76446161314B9A8A00617E /* Build configuration list for PBXProject  "Exercise1" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            26E32B130CB24D7A973CA8BF /* Debug */,
+                            D13B2460A04A4B258F42A8DB /* Release */,
+                            862DF77D24EF4572918526E9 /* MinSizeRel */,
+                            24ED2D43B6614F18B0FBA70B /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              BCA1D30A33654245BCA028CB /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            3B0B558CBF5C4849995E0299 /* Debug */,
+                            765995D0AD5F4DAEA938595D /* Release */,
+                            2E4172C014C6466FA6219E37 /* MinSizeRel */,
+                            70FC432E52744A1E8C52D27F /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              AC58FA72A6EC4ED9B76A609A /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            DECE7B832F3548929F293C7F /* Debug */,
+                            EDF99063288747FBA6665BA9 /* Release */,
+                            BEDA7E6E327E4C2DA56010D3 /* MinSizeRel */,
+                            1CD8292C1AFB4BB995D10087 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              B107F3B8FA334482A6FD8B8C /* Build configuration list for PBXNativeTarget "exercise1" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            4F8F3F1AE61C41EDA3893069 /* Debug */,
+                            0E4A411BA1C24BBD844B2C2E /* Release */,
+                            0A8906358BFA43FBA665B2E2 /* MinSizeRel */,
+                            BFADBE56032641FCA8317B62 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = 3A73A5A4BD05454392A4F24C;
+}

@@ -1,0 +1,191 @@
+Texercise1
+v6
+r1
+cCheck dependencies
+cCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutExaminer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/MeshViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/ValenceViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/valenceview.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052CA2E43000000000000044C
+t1388981827
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052CA2E4300000000000001DB
+t1388981827
+s475
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc
+c0000000052E1035E000000000000342E
+t1390478174
+s13358
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc
+c00000000460827A20000000000001881
+t1174939554
+s6273
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc
+c0000000052E0E56C0000000000001ADE
+t1390470508
+s6878
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc
+c0000000052E840410000000000001A2B
+t1390952513
+s6699
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc
+c0000000052E73DA900000000000007A1
+t1390886313
+s1953
+
+CBuild AST from /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutExaminer.cc
+r0
+
+CBuild AST from /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutViewer.cc
+r0
+
+CBuild AST from /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/MeshViewer.cc
+r0
+
+CBuild AST from /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/ValenceViewer.cc
+r0
+
+CBuild AST from /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/valenceview.cc
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda9249a53aabb841^2cba49a53aabb841^---0#1#1#--18"Check dependencies36"A485D018-71F6-418B-9AB8-5E75B38C2299-
+
+CCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutExaminer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413874853.288622
+e413874853.585977
+r0
+xCompileC
+xbuild/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc:41:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:
+o/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found
+o#include <OpenMesh/Core/Geometry/VectorT.hh>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc167"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o GlutExaminer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7bf549a53aabb841^9b1c96a53aabb841^-632"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc:41:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found#include <OpenMesh/Core/Geometry/VectorT.hh>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@50"'OpenMesh/Core/Geometry/VectorT.hh' file not found-413874853#18446744073709551615#0#3(2@130"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.cc:41:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutExaminer.cc0000000000000000^40#9#40#9#2035#0#21"Apple LLVM 5.0 Notice--2@130"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutExaminer.hh0000000000000000^44#9#44#9#2072#0#21"Apple LLVM 5.0 Notice--2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutViewer.hh0000000000000000^44#9#44#9#2066#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/gl.hh0000000000000000^54#9#54#9#2298#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@115"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutExaminer.cc0000000000000000^2765"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o GlutExaminer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_USE_MATH_DEFINES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources/x86_64 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutExaminer.cc -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutExaminer.o36"A40518FA-7B9E-4120-BA23-B020B43AB827-
+bA16BD23A-2C83-4CF7-945A-2ABCC432CF27
+
+CCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413874853.288764
+e413874853.589714
+r0
+xCompileC
+xbuild/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc:40:
+o/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found
+o#include <OpenMesh/Core/Geometry/VectorT.hh>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc163"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o GlutViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera4fb49a53aabb841^4df796a53aabb841^-370"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc:40:/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found#include <OpenMesh/Core/Geometry/VectorT.hh>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@50"'OpenMesh/Core/Geometry/VectorT.hh' file not found-413874853#18446744073709551615#0#1(2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.cc:40:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutViewer.cc0000000000000000^39#9#39#9#2031#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/gl.hh0000000000000000^54#9#54#9#2298#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutViewer.cc0000000000000000^2753"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o GlutViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_USE_MATH_DEFINES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources/x86_64 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/GlutViewer.cc -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/GlutViewer.o36"3B7717B8-1E53-4912-A5AF-73D15A0D10C1-
+bA16BD23A-2C83-4CF7-945A-2ABCC432CF27
+
+CCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/MeshViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413874853.288954
+e413874853.699358
+r0
+xCompileC
+xbuild/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc:42:10: fatal error: 'OpenMesh/Core/IO/MeshIO.hh' file not found
+o#include <OpenMesh/Core/IO/MeshIO.hh>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc163"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o MeshViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilercd054aa53aabb841^1c0ab3a53aabb841^-235"/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.cc:42:10: fatal error: 'OpenMesh/Core/IO/MeshIO.hh' file not found#include <OpenMesh/Core/IO/MeshIO.hh>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@43"'OpenMesh/Core/IO/MeshIO.hh' file not found-413874853#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/MeshViewer.cc0000000000000000^41#9#41#9#2035#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/MeshViewer.cc0000000000000000^2753"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o MeshViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_USE_MATH_DEFINES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources/x86_64 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/MeshViewer.cc -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/MeshViewer.o36"5EC9D251-B666-48C4-9CF1-C683E6D1FBA9-
+bA16BD23A-2C83-4CF7-945A-2ABCC432CF27
+
+CCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/ValenceViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413874853.289214
+e413874853.686918
+r0
+xCompileC
+xbuild/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc:41:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:
+o/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found
+o#include <OpenMesh/Core/Geometry/VectorT.hh>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc169"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o ValenceViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler2d224aa53aabb841^51daafa53aabb841^-894"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc:41:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found#include <OpenMesh/Core/Geometry/VectorT.hh>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@50"'OpenMesh/Core/Geometry/VectorT.hh' file not found-413874853#18446744073709551615#0#5(2@131"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.cc:41:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@116"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/ValenceViewer.cc0000000000000000^40#9#40#9#2036#0#21"Apple LLVM 5.0 Notice--2@131"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/ValenceViewer.hh0000000000000000^45#9#45#9#2089#0#21"Apple LLVM 5.0 Notice--2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/MeshViewer.hh0000000000000000^45#9#45#9#2014#0#21"Apple LLVM 5.0 Notice--2@130"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutExaminer.hh0000000000000000^44#9#44#9#2072#0#21"Apple LLVM 5.0 Notice--2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutViewer.hh0000000000000000^44#9#44#9#2066#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/gl.hh0000000000000000^54#9#54#9#2298#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@116"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/ValenceViewer.cc0000000000000000^2771"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o ValenceViewer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_USE_MATH_DEFINES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources/x86_64 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/ValenceViewer.cc -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/ValenceViewer.o36"2A8A226D-AABA-4B92-83AF-964E94B684E7-
+bA16BD23A-2C83-4CF7-945A-2ABCC432CF27
+
+CCompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/valenceview.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413874853.289585
+e413874853.612807
+r0
+xCompileC
+xbuild/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc:32:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:
+oIn file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:
+o/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found
+o#include <OpenMesh/Core/Geometry/VectorT.hh>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc165"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o valenceview.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler382f4aa53aabb841^ebe09ca53aabb841^-892"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc:32:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/gl.hh:55:10: fatal error: 'OpenMesh/Core/Geometry/VectorT.hh' file not found#include <OpenMesh/Core/Geometry/VectorT.hh>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@50"'OpenMesh/Core/Geometry/VectorT.hh' file not found-413874853#18446744073709551615#0#5(2@129"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/valenceview.cc:32:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@114"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/valenceview.cc0000000000000000^31#9#31#9#1737#0#21"Apple LLVM 5.0 Notice--2@131"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/ValenceViewer.hh:46:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/ValenceViewer.hh0000000000000000^45#9#45#9#2089#0#21"Apple LLVM 5.0 Notice--2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/MeshViewer.hh:46:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/MeshViewer.hh0000000000000000^45#9#45#9#2014#0#21"Apple LLVM 5.0 Notice--2@130"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutExaminer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutExaminer.hh0000000000000000^44#9#44#9#2072#0#21"Apple LLVM 5.0 Notice--2@128"In file included from /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/GlutViewer.hh:45:-413874853#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/GlutViewer.hh0000000000000000^44#9#44#9#2066#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/gl.hh0000000000000000^54#9#54#9#2298#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@114"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/valenceview.cc0000000000000000^2759"CompileC build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o valenceview.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_USE_MATH_DEFINES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources/x86_64 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/valenceview.cc -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/Exercise1.build/Debug/exercise1.build/Objects-normal/x86_64/valenceview.o36"40F1C2BB-DC51-49D4-8ABF-36CB22AE85DE-
+bA16BD23A-2C83-4CF7-945A-2ABCC432CF27
+
+CLd /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/bin/Debug/exercise1 normal x86_64
+r0
+

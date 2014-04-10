@@ -1,0 +1,122 @@
+TCompilerIdCXX
+v6
+r1
+cCheck dependencies
+cCompileC ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX normal i386
+cPhaseScriptExecution Run\ Script /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052CA2E43000000000000044C
+t1388981827
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052CA2E4300000000000001DB
+t1388981827
+s475
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+c0000000052E8BF3A0000000000002E45
+t1390985018
+s11845
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX
+t2
+s0
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+t1390985018
+s3572
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList
+c0000000052E8BF3A00000000000000D8
+t1390985018
+s216
+
+N/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+c0000000052E8BF3A000000000000002A
+t1390985018
+s42
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfe0d4ebaf698b841^9d2c55baf698b841^---0#1#1#--18"Check dependencies36"CC7CED2F-4BB6-4345-AED2-3C85A39155B7-
+
+CCompileC ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412677818.334557
+e412677818.350603
+r1
+xCompileC
+x./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp180"CompileC ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb6bd55baf698b841^c6c159baf698b841^---0#0#1#-19%DVTDocumentLocation2@162"file:///Users/wenbolin/Documents/study/studying/Digital%20Geometry%20Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp0000000000000000^3244"CompileC ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/i386 -I/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX -MMD -MT dependencies -MF /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.d --serialize-diagnostics /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.dia -c /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o36"44C1AB92-C745-4BEB-B617-54699D66C5E9-
+bD44FCDB1-DC4D-4B29-BD5E-2F1A3DD62158
+
+CLd /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX normal i386
+s412677818.351239
+e412677818.368363
+r1
+xLd
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX
+xnormal
+xi386
+d/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList
+d/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX30"Ld ./CompilerIdCXX normal i386dffd59baf698b841^b14d5ebaf698b841^---0#0#1#--1375"Ld ./CompilerIdCXX normal i386    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX -F/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX -filelist /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX_dependency_info.dat -o /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX36"2A3E2C9A-E94E-47DD-A614-27D17A77FEC7-
+bD44FCDB1-DC4D-4B29-BD5E-2F1A3DD62158
+
+CPhaseScriptExecution Run\ Script /Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+s412677818.369867
+e412677818.379927
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+oGCC_VERSION=com.apple.compilers.llvm.clang.1_0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'115"PhaseScriptExecution Run\ Script ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh53ea5ebaf698b841^464461baf698b841^-47"GCC_VERSION=com.apple.compilers.llvm.clang.1_01(21%IDEActivityLogMessage2@47"GCC_VERSION=com.apple.compilers.llvm.clang.1_0-412677818#0#47#-0#-----0#0#1#--487"PhaseScriptExecution Run\ Script ./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh    cd "/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX"    /bin/sh -c \"/Users/wenbolin/Documents/study/studying/Digital\ Geometry\ Processing/exercise1/exercise1/build/CMakeFiles/2.8.12.2/CompilerIdCXX/./CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh\"36"5CB222DE-D7AA-403F-9197-74A1C10E3E74-
+bD44FCDB1-DC4D-4B29-BD5E-2F1A3DD62158
+

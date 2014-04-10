@@ -1,0 +1,3 @@
+/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/ALL_BUILD.dir
+/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/ZERO_CHECK.dir
+/Users/wenbolin/Documents/study/studying/Digital Geometry Processing/exercise1/exercise1/build/CMakeFiles/exercise1.dir
